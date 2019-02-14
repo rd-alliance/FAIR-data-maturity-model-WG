@@ -10,10 +10,7 @@ Any problems encountered, or suggestions, questions, etc. considered within scop
 
 ## Structure of the repository
 - /results of preliminary analysis
-- /methodology, process & timeline
+- /methodology, process & timeline:contains the material outlining the methodology and process proposed as well as a tentative timeline
+- /workshops: contains the material that will be disseminated to each and every workshop
 
-contains the material outlining the methodology and process proposed as well as a tentative timeline
 
-- /workshops
-
-contains the material that will be disseminated to each and every workshop
