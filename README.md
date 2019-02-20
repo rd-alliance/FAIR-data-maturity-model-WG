@@ -24,7 +24,7 @@ As outlined in the paragraph before, this is a landscaping exercise, thus laying
 - is there any other aspect to consider?
 - ...?
 
-whereas on the long term:
+whereas in the long term:
 
 - who will be the authority responsible for the common set of core criteria?
 - what can be assessed manually and automatically?
