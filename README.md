@@ -27,7 +27,6 @@ Besides, any problems encountered, or suggestions, questions, etc. considered wi
 
 ## Structure of the repository
 - /results of preliminary analysis
-- /methodology, process & timeline:contains the material outlining the methodology and process proposed as well as a tentative timeline
-- /workshops: contains the material that will be disseminated to each and every workshop
+
 
 
