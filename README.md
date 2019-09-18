@@ -2,37 +2,25 @@
 ## Introduction
 Welcome to the repository supporting the work that will be carried out by the RDA FAIR data maturity Working Group. This Working Group will build on top and combine the most salient characteristics of existing efforts for measuring the readiness and implementation level of a dataset vis-à-vis the FAIR data principles.
 
-For futher information you can read the case statement at the following address:
-https://www.rd-alliance.org/group/fair-data-maturity-model-wg/case-statement/fair-data-maturity-model-wg-case-statement
+For futher information you can read the [case statement](https://www.rd-alliance.org/group/fair-data-maturity-model-wg/case-statement/fair-data-maturity-model-wg-case-statement) on the RDA Website.
+
+### Context, objectives and scope
+Please have a look at the [three slides presentation](https://github.com/RDA-FAIR/FAIR-data-maturity-model-WG/blob/master/Context%2C%20objectives%20and%20scope.pdf) to better understand the situation.  
 
 ## How to contribute
-A first workshop was held in February 2019 - https://www.rd-alliance.org/workshop-1, where the editorial team unveiled a methodology, a tentative timeline and an landscaping exercice. As a landscaping exercise, the editorial team, analysed current and existing approaches related to FAIR self-assessment tool. The analysis was made based on publicly available documentation and an online survey - https://docs.google.com/spreadsheets/d/14ojMSXVOITg3RoJn-PuDaPj8zuIGQz2Li-kl97HOBH4/edit?usp=sharing. Questions and options stemming from theses different approaches were classified according to the FAIR principles/facets. This resulted in five slide decks that can be found in the folder /results of preliminary analysis. 
+Thanks for taking the time to contribute!
 
-As outlined in the paragraph before, this is a landscaping exercise, thus laying the foundation for the Working Group to further debate on a common set of core criteria (cfr. case statement). Here below is a non-exhaustive list of questions that could be addressed in the short term by the Working Group on this very repository:
-
-- do you have other suggestions concerning the scope of the work?
-- do you agree with the proposed methodology?
-- do you think another framework should be used to classify the questions and options (in order to derive a common set of core criteria)?
-- do you agree with the tentative timeline?
-- what open issues could be considered in this exercise?
-- is there any other relevant (FAIR) assessment tool that should be examined?
-- do you agree with the proposed classification?
-- do the questions relate specifically to a facet or multiple facets (e.g. A1, A2)?
-- are there any irrelevant questions?
-- do the options proposed cover enough of the different levels of FAIRness (from non-FAIR to fully FAIR compliant)?
-- are there any irrelevant options?
-- is there any other aspect to consider?
-- ...?
-
-whereas in the long term:
-
-- who will be the authority responsible for the common set of core criteria?
-- what can be assessed manually and automatically?
-- should the common set of core criteria be discipline specific or generic?
-- what are the different levels of FAIRness (i.e. how to score the FAIRness)?
-- ...?
+Each specific issue/thread treats a different topic. The overriding goal is to get consensus about every proposition that is made during the workshops and on this very repository. Navigate through the issues and comment to give your opinion about the topic of your choice. 
 
 Besides, any problems encountered, or suggestions, questions, etc. considered within scope can be submitted as issue on this very repository.  
+
+## Additional material
+Here below you can find the presentations and reports for each and every workshop
+
+- [Workshop #1](https://www.rd-alliance.org/workshop-1)
+- [Workshop #2](https://www.rd-alliance.org/workshop-2)
+- [Workshop #3](https://www.rd-alliance.org/workshop-3)
+- [Workshop #4](https://www.rd-alliance.org/workshop-4)
 
 ## Structure of the repository
 - /results of preliminary analysis
